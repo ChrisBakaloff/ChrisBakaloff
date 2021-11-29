@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hristiyan
-- 📚 Computer Science Student @ Abertay University (3rd year) 
-- 💻 I’m interested in: iOS Development , Angular + Firebase , MEAN Stack 
-- 🌱 I’m currently learning: Computer Vision AI , Swift (UIKit) 
+- 👋 Hi, I’m Hristiyan (Chris)
+- 📚 Computer Science Student @ Abertay University (4th year) 
+- 💻 I’m interested in: iOS Development , AWS , Flutter 
+- 🌱 I’m currently learning: AWS , Swift (UIKit)
 - 🎖️ Previous Experience: 🪲 Test Automation Developer (2 years) (e2e testing with 🥒 Cucumber , Jasmin , Protractor , TS) 
 - 📫 You can reach me @: chrisbklv@gmail.com
 
