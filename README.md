@@ -1,6 +1,6 @@
-<h2 align="center">
-  Hi there, I'm Chris
-</h2>
+<p>
+<img src="https://user-images.githubusercontent.com/71759981/174655696-0ef583bc-10a6-491d-808e-0d2e3eee6cce.png" alt="my banner">
+</p>
 
 <h3 align="center">
   iOS Developer, Test Automation Engineer, Web Developer 
@@ -34,4 +34,8 @@
 
 ## 📈 GitHub Stats: 
 ![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisBakaloff&count_private=true&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/ChrisBakaloff)
+
+
 
