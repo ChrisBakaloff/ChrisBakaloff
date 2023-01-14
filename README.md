@@ -1,7 +1,3 @@
-<p>
-<img src="https://user-images.githubusercontent.com/71759981/174655696-0ef583bc-10a6-491d-808e-0d2e3eee6cce.png" alt="my banner">
-</p>
-
 <h3 align="center">
   iOS Developer, Test Automation Engineer, Web Developer 
 </h3>
@@ -22,15 +18,11 @@
 
 
 ## 💻 Currently Working On
-- **SoftTutor** 
-- **SoftTutor - Web Platform**
+- **CalTrack** 
 
 ## 🌱 Currently Learning
-- **Angular**
-- **GraphQL**
-- **Azure**
-- **HashiCorp Vault**
-- **Feature Flags**
+- **Golang**
+
 
 ## 📈 GitHub Stats: 
 ![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisBakaloff&count_private=true&show_icons=true&theme=dark)
