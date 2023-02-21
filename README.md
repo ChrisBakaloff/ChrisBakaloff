@@ -27,7 +27,6 @@
 ## 📈 GitHub Stats: 
 ![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisBakaloff&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/ChrisBakaloff)
 
 
 
