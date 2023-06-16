@@ -11,9 +11,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
-## 📈 GitHub Stats: 
-![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisBakaloff&count_private=true&show_icons=true&theme=dark)
-
 
 
 
